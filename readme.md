@@ -1,6 +1,6 @@
 # Introduction
 
-The Adform DFP adapter can be used to integrate Adform ads into the Google Mobile Ads mediation platform.
+The Adform Admob adapter can be used to integrate Adform ads into the Google Mobile Ads mediation platform.
 
 # Integration
 
